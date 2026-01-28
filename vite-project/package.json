@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dregetas.github.io/react-learn",
+  "homepage": "https://lionix-studio.github.io/lionix-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
